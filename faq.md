@@ -14,6 +14,10 @@ The service/tool is called "GitHub Spark". But the apps you create with it are c
 
 Currently, it allows you to choose between Claude Sonnet 3.5, GPT-4o, o1-preview, and o1-mini. However, we'll be constantly evaluating new models, in order to ensure that GitHub Spark provides users with access to the latest/best AI.
 
+## What kind of apps can GitHub Spark create?
+
+Currently, it's focused on generating mobile web apps, which use a static front-end, and make use of the GitHub Spark runtime APIs (data storage, user permissions, LLM access, etc.), as well as other external APIs (as needed).
+
 ## What is the GitHub Spark design system built on?
 
 The built-in components in GitHub Spark are built upon React and [Radix UI](https://www.radix-ui.com), and our design system is built around [Tailwind](https://tailwindcss.com/) and [Heroicons](https://heroicons.com/). We love all of these projects, and are grateful to be able to leverage their amazing work 💙
