@@ -1,0 +1,7 @@
+### Why "Spark"?
+
+Because it's the spark of every good idea or social interaction. But also, because it just sounds cool (e.g. "Hey did you check out that spark that I shared with you?").
+
+### What is GitHub Spark design system built on?
+
+The built-in components in GitHub Spark are built upon React and [Radix UI](https://www.radix-ui.com/, and our design system is built around [Tailwind](https://tailwindcss.com/) and [Heroicons](https://heroicons.com/). We love all of these projects, and are grateful to be able to leverage their amazing work 💙
