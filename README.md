@@ -6,7 +6,7 @@ You can learn more about what GitHub Spark is from its [project page](https://gi
 
 ## Table of Contents
 
-* [FAQ](FAQ.md)
+* [FAQ](faq.md)
 * [CHANGELOG](CHANGELOG.md)
 
 ## Feedback
