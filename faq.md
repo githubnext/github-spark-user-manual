@@ -1,10 +1,14 @@
 ### Why "Spark"?
 
-Because it can serve as the spark of curiosity for your software-based ideas. But also, because it just sounds cool 😎
+Because it can serve as the **spark** of inspiration/curiosity for your software-based ideas. But also, because it just sounds cool 😎
 
 ### Is it "Spark" or "spark"?
 
-The service/tool is called "GitHub Spark". But the apps you create with it are called "sparks" (e.g. "Hey did you check out that spark that I shared with you?").
+The service/tool is called "GitHub Spark". But the apps you create with it are called "sparks" (e.g. "Hey did you check out that spark that I shared with you?"). And again, "sparks" just sounds cool 😎
+
+### Which models does GitHub Spark support?
+
+Currently, it allows you to choose between Claude Sonnet 3.5, GPT-4o, o1-preview, and o1-mini. However, we'll be constantly evaluating new models, in order to ensure that GitHub Spark provides users with access to the latest/best AI.
 
 ### What is the GitHub Spark design system built on?
 
