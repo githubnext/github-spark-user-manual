@@ -2,7 +2,7 @@
 
 Welcome! 👋 This is the user manual for [GitHub Spark](https://gh.io/spark), an experiment by [GitHub Next](https://githubnext.com). GitHub Spark is an AI-powered tool for creating and sharing micro apps (“sparks”), which can be tailored to your exact needs and preferences, and are directly usable from your desktop and mobile devices. **Without needing to write or deploy any code.** ✨
 
-You can learn more about what GitHub Spark is from its [project page](https://githubnext.com/projects/github-spark/).
+If you'd like to learn more about GitHub Spark, you can check out its [project page](https://githubnext.com/projects/github-spark/), or review any of the resources outlined below.
 
 ## Table of Contents
 
