@@ -1,3 +1,32 @@
+## 📅 November 22, 2024
+
+### Features and enhancements
+
+#### New Spark editor layout on desktop
+
+We've listened to your feedback and just added a brand new layout for desktop that makes much better use of the space available on larger screens. By default this new layout gives plenty of room for the spark you're interacting with, and you can optionally expand the new sidebar and then even open multiple panels at once. We're excited about continuing to refine the editor UI and make our panels even more powerful!
+
+<img width="500" src="https://github.com/user-attachments/assets/cc5f25e5-1a0b-4d74-8296-0e13a7056d1a">
+
+#### More icons!
+
+Sparks are now more likely to automatically include icons when building UI. Sparks now default to using [Phosphor icons](https://phosphoricons.com/), which is a huge and varied set of icons.
+
+<img width="500" src="https://github.com/user-attachments/assets/ba4d4189-0c40-4ec8-ac5a-d5613a587910">
+
+#### Theme panel enhancements
+
+And now you can control icon styling – like thin, bold, or our favorite, duotone – right from the Theme panel.
+We've also added the ability to quickly change fonts, and expanded the number of accent colors.
+
+<img width="338" alt="accent colors" src="https://github.com/user-attachments/assets/bb969c82-6339-4bd9-b451-41eb791d2425">
+
+#### Built-in Markdown component
+
+We've added a new Markdown component that sparks will now automatically use in order to easily render Markdown. This is especially nice for rendering LLM responses when called at runtime from sparks, but it's also great for little one-off utilities too!
+
+<img width="400" src="https://github.com/user-attachments/assets/c8de326b-fc22-4c9e-b6b4-84d4d1ae683d">
+
 ## 📅 November 15, 2024
 
 ### Features and enhancements
