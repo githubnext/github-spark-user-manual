@@ -1,3 +1,47 @@
+## 📅 December 6, 2024
+
+### Suggested next steps
+
+The Iterate panel now suggests next steps. For example, here are some fun (and useful!) ideas on what we could do next with one of our metronome sparks
+
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/26ef5db2-4b2f-47b0-83b6-606d86250564">
+
+Less typing, more iterating!
+
+### Seed data
+
+We now generate sample data when you're building a spark that persists data. This simulates how your spark might behave after you've used it for a while, and gives you the opportunity to immediately iterate on a new one without having to add your own test data first.
+
+<img src="https://github.com/user-attachments/assets/f48d18bd-88b0-4b1f-9d1e-ec7d388abd8d" height=400>
+
+### Use natural language to change the theme
+
+You can now use natural language to tweak your theme:
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/80d6d15e-2c2b-4781-826c-cb3f4bc076f0">
+
+And now brand new sparks will automatically choose accent colors, like the basketball game tracker above in the "Seed data" section that automatically chooses orange. (We apologize for waiting to add this until after Halloween!)
+
+### More theming controls
+
+#### Secondary accent colors
+
+Add a secondary accent color to spice up your sparks:
+
+<img width=400 src=https://github.com/user-attachments/assets/3491d1ee-0bba-4847-87bf-d9be9824d618>
+
+#### More fonts
+
+We added support for more varied fonts:
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/1c439e7c-f2b0-4ffb-8124-6f06595aa749">
+
+### Improved variants layout
+
+On Desktop we've given moved variants out of the Iterate panel and have given them some space to breathe: 
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6951b7dc-3abf-4b6d-9466-8defb31d8fbe">
+
 ## 📅 November 22, 2024
 
 ### Features and enhancements
