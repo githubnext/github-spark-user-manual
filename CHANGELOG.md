@@ -38,7 +38,7 @@ We added support for more varied fonts:
 
 ### Improved variants layout
 
-On Desktop we've given moved variants out of the Iterate panel and have given them some space to breathe: 
+On Desktop we've moved variants out of the Iterate panel and have given them some space to breathe: 
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/6951b7dc-3abf-4b6d-9466-8defb31d8fbe">
 
