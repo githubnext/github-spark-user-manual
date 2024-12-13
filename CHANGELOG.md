@@ -1,3 +1,39 @@
+## 📅 December 13, 2024
+
+### Improvements to suggestions
+
+We've made improvements to the suggested next steps feature we introduced <a href=#suggested-next-steps>last week</a>:
+
+* You can request an entirely new set of suggestions
+* You can individually dismiss suggestions and a new one will be generated in its place
+* When generating new suggestions, it will take into consideration which ones you previously dismissed
+
+<img src=https://github.com/user-attachments/assets/bff3856c-bfae-4cd6-b185-a05269614a32 width=300>
+
+### More iteration controls
+
+We've made it easier to take next steps when an iteration isn't quite what you wanted. There's a new 👎 menu in the toolbar that will let you either fully _Revert_ the most recent iteration, or _Revert & retry_, which will prefill the Iterate panel with the same prompt you just used, giving you the opportunity to further edit the prompt or try with a different model. And if Spark detects any errors, there's a new "Auto fix" button that will prefill the Iterate panel with information about the error. We've found the models to be quite good at fixing most errors – though if you find any particularly tricky ones we'd love for you to let us know in [our Discord](https://github.com/githubnext/github-spark-user-manual/tree/main?tab=readme-ov-file#feedback).
+
+<img width="360" src="https://github.com/user-attachments/assets/960ae88b-f999-4c8b-8cf8-380f36cad8ec" />
+
+### New mobile design
+
+We've refreshed our mobile design to better match our recent [design changes on Desktop](#new-spark-editor-layout-on-desktop). All tabs are now only a single tap away, whereas previously some were hidden behind a menu.
+
+https://github.com/user-attachments/assets/08f9c2f0-fcd4-484b-a2ef-56b1f7882700
+
+### New dialog component
+
+We've added a new `Dialog` component to the built-in Spark design system.
+
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/e7d48ac0-c1cd-4b6c-846e-72f5266b80b0" />
+
+### Quick history access
+
+On Desktop we've added buttons to let you navigate history more easily. Click around and reminisce on how your spark evolved!
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/386ef0a8-74ed-42ec-94c1-750c6f8937b8" />
+
 ## 📅 December 6, 2024
 
 ### Suggested next steps
