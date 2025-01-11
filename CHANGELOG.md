@@ -1,3 +1,19 @@
+## 📅 January 10, 2025
+
+### Install individual sparks as PWAs
+
+Now in addition to letting you install Spark-the-editor on say, your phone, you can also install individual sparks, including ones shared with you.
+
+https://github.com/user-attachments/assets/3155f62b-2ff8-4bbe-845a-25fbf9d73ba5
+
+### More features & bug fixes
+
+- Spark names are now used as page titles
+- Scrolling through code as it streams in doesn't jump around anymore
+- Make Spark less likely to generate code that uses `alert()` or `confirm()` in favor of in-app UI
+- Fixed text cursor jumping while editing
+- Fixed login to redirect you back to the original URL you were trying to view
+
 ## 📅 December 20, 2024
 
 ### URL context
