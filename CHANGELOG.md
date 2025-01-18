@@ -1,3 +1,21 @@
+## 📅 January 17, 2025
+
+### Icons for spark PWAs
+
+As a follow-on to [last week's PWA support](#install-individual-sparks-as-pwas), Spark now generates custom icons for your sparks (in this example, both the metronome and the gym tracker are from Spark):
+
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/2d07e9b7-5904-4a30-90e9-cd4361f30a77" />
+
+These new app icons automatically use your theme's accent color. The theme panel now has a new control to pick a different icon if you'd like to try something different, and clicking your spark's name will show you a preview of the icon if your spark were saved as a PWA.
+
+### More features & bug fixes
+
+- Code generation using Claude 3.5 Sonnet is now much more reliable
+- Now clicking autofix after experiencing an error immediately triggers a repair attempt
+- Improved editor in the Prompts panel with more reliable variable detection and ability to edit variables directly
+- Improve loading state to have more stable UI
+- Disallow code editing while code is being generated
+- 
 ## 📅 January 10, 2025
 
 ### Install individual sparks as PWAs
