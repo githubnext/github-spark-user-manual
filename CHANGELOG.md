@@ -1,3 +1,20 @@
+## 📅 February 1, 2025
+
+### Thumbs down menu improvements
+
+We previously introduced the 👎 button so that you can conveniently fix and revert changes that didn't go quite how you'd hoped for. Now we also include potential improvements that are customized for your particular spark. Just answer a few yes/no questions and you can kick off an iteration immediately by hitting "yes" if you see a change you want made. We're continuing to tune this feature and very much appreciate any feedback provided via [our Discord](https://github.com/githubnext/github-spark-user-manual/tree/main?tab=readme-ov-file#feedback).
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f6a1dbde-bca0-4dbe-bcc2-5e17f4f0f33f" />
+
+### More features & bug fixes
+
+- Show more details when the history menu is expanded
+- Add label to fullscreen exit button
+- Show a red notification dot when errors are present in the log panel
+- Auto scroll to the latest log when the log panel is open
+- Enable text selection for prompts in editor header
+- Added tooltips to sidenav
+
 ## 📅 January 17, 2025
 
 ### Icons for spark PWAs
