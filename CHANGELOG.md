@@ -1,3 +1,10 @@
+## 📅 February 7, 2025
+
+- Show a confirmation dialog when you click "Delete" in the data panel
+- Add even more tooltips, this time to the workspace toolbar
+- Prioritize showing the spark preview when generating code on mobile
+- Add new Discord invite link to user menu
+
 ## 📅 February 1, 2025
 
 ### Thumbs down menu improvements
