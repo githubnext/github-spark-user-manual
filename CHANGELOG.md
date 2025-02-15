@@ -1,3 +1,17 @@
+## 📅 February 14, 2025
+
+### Data panel redesign
+
+We've upgraded the Data panel! Instead of editing freeform JSON, you now have a graphical interface that mirrors the structure of your data, making edits safer and more intuitive. Feeling adventurous? The raw JSON edit mode is still available when you need it. Let us know what you think!
+
+https://github.com/user-attachments/assets/25b73cc5-f966-4e1f-9809-3963f90573a9
+
+### More features & bug fixes
+
+- Added an inline autofix button to errors in the Logs panel
+- Improved model reliability, fixing more scenarios where Spark might stop generating code before it's finished
+- Fixed rendering long instructions in the Iterate panel
+
 ## 📅 February 7, 2025
 
 - Show a confirmation dialog when you click "Delete" in the data panel
