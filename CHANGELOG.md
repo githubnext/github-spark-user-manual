@@ -1,3 +1,34 @@
+## 📅 February 21, 2025
+
+### Targeted editing (functional & visual)
+
+Make specific functional and visual changes to existing sparks using targeted editing. In the Iterate panel click the crosshairs icon to open the targeted editing pane in the app preview display.
+
+https://github.com/user-attachments/assets/8dd7b8d3-b06f-4a5b-9859-7bcc7898f778
+
+### Star shared sparks
+
+When anyone shares their sparks with you, you can now star them and save them to your own dashboard without having to fork (just click the spark title to star). This makes it easier for you and loved ones to use the same spark (think shared meal planning & grocery list apps, family calendars, roommate chore trackers, a trivia app for friends, budgeting app for couples etc).
+
+<img width="346" alt="Screenshot 2025-02-21 at 19 55 38" src="https://github.com/user-attachments/assets/73294c63-0423-44d8-8312-f67f976f77fa" />
+
+![image (2)](https://github.com/user-attachments/assets/cde716ee-749e-4548-92a8-523d91fc4c51)
+
+### Inspiration sparks
+
+In the main dashboard we now always show a variety of inspiration sparks that you can generate with 1-click, or use to come up with new ideas for sparks of your own.
+
+<img width="685" alt="Screenshot 2025-02-21 at 19 37 49" src="https://github.com/user-attachments/assets/cd9c527d-9d7c-4c24-9044-c0a841c871ff" />
+
+### More features & bug fixes
+
+* Made data & code syncing more reliable, and offer users choice on how to handle sync conflicts
+* The ability to share sparks from your main dashboard
+* Open sparks in edit mode on Desktop for faster access to spark refinements
+* Fixed issue with old iteration prompts showing up in different sparks
+* Fixed more code generation failure scenarios
+* Fixed some buttons requiring multiple taps on Mobile from tooltips
+
 ## 📅 February 14, 2025
 
 ### Data panel redesign
