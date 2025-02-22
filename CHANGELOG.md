@@ -24,6 +24,7 @@ In the main dashboard we now always show a variety of inspiration sparks that yo
 
 * Made data & code syncing more reliable, and offer users choice on how to handle sync conflicts
 * The ability to share sparks from your main dashboard
+* You can now share feedback with the Spark team from the bounce menu in the app, or email spark-feedback@github.com
 * Open sparks in edit mode on Desktop for faster access to spark refinements
 * Fixed issue with old iteration prompts showing up in different sparks
 * Fixed more code generation failure scenarios
