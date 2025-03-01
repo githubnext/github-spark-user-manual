@@ -1,3 +1,19 @@
+## 📅 February 28, 2025
+
+### Get your friends & family off the waitlist!
+
+We added the ability for you to get your friends and family off the waitlist. Enter into any Spark then click on your user icon in the bottom left corner of the screen to open the menu. Click on "Invite Friends" to open the invite panel and complete the form. We'll grant your friends and family access shortly after you submit the form.
+
+<img width="337" alt="Screenshot 2025-02-28 at 16 55 33" src="https://github.com/user-attachments/assets/a11e13b3-0531-4855-8521-3ac64b7f4217" />
+
+<img width="646" alt="Screenshot 2025-02-28 at 16 55 59" src="https://github.com/user-attachments/assets/3d9b0de5-025e-4327-8dbe-729bbb9ff55e" />
+
+### More features & bug fixes
+
+* Fixed a bug that was preventing reliable persistence of data
+* Added the ability to share Sparks that were shared with you
+* We cleaned up the generation UI on the main dashboard
+
 ## 📅 February 21, 2025
 
 ### Targeted editing (functional & visual)
